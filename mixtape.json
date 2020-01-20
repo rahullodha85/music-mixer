@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "name": "user1",
+      "play-lists": [
+        {
+          "name":"playlist1",
+          "songs": [
+            {
+              "song-title": "song1"
+            },
+            {
+              "song-title": "song2"
+            },
+            {
+              "song-title": "song3"
+            }
+          ]
+        },
+        {
+          "name": "playlist2",
+          "songs": [
+            {
+              "song-title": "song4"
+            },
+            {
+              "song-title": "song5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "user2",
+      "play-lists": [
+        {
+          "name":"playlist1",
+          "songs": [
+            {
+              "song-title": "song4"
+            },
+            {
+              "song-title": "song5"
+            },
+            {
+              "song-title": "song6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "user3",
+      "play-lists": [
+        {
+          "name":"playlist1",
+          "songs": [
+            {
+              "song-title": "song7"
+            },
+            {
+              "song-title": "song8"
+            },
+            {
+              "song-title": "song1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "song-title": "song1"
+    },
+    {
+      "song-title": "song2"
+    },
+    {
+      "song-title": "song3"
+    },
+    {
+      "song-title": "song4"
+    },
+    {
+      "song-title": "song5"
+    },
+    {
+      "song-title": "song6"
+    },
+    {
+      "song-title": "song7"
+    },
+    {
+      "song-title": "song8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "action": "add_song",
+    "song": {
+      "song-title": "song7"
+    },
+    "user": "user1",
+    "playlist-name": "playlist1"
+  },
+  {
+    "action": "add_playlist",
+    "user": "user2",
+    "playlist": {
+      "name": "playlist2",
+      "songs": [
+        {
+          "song-title": "song1"
+        },
+        {
+          "song-title": "song9"
+        },
+        {
+          "song-title": "song10"
+        }
+      ]
+    }
+  },
+  {
+    "action": "remove_playlist",
+    "user": "user1",
+    "playlist-name": "playlist2"
+  }
+]
